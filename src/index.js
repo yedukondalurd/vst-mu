@@ -1,1 +1,1 @@
-export { default as CircleBox } from './CircleBox';
+export { default as CircleBox,CircleBox } from './CircleBox';
