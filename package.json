@@ -25,16 +25,21 @@
     "eslint-plugin-import": "^2.1.0",
     "eslint-plugin-jsx-a11y": "^2.2.3",
     "eslint-plugin-react": "^6.6.0",
-    "react": "^15.4.1",
-    "react-build-dist": "^0.0.8",
-    "react-dom": "^15.4.1"
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-build-dist": "^0.0.8"
   },
   "peerDependencies": {
-    "react": "^15.4.0",
-    "react-dom": "^15.4.0"
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
   },
   "keywords": [
     "react",
     "react-component"
-  ]
+  ],
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-build-dist": "0.0.8",
+    "react-dom": "^15.6.1"
+  }
 }
